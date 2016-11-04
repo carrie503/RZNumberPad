@@ -172,4 +172,6 @@ IB_DESIGNABLE
  */
 - (void)reloadButtons;
 
+- (NSMutableArray *)numberButtons;
+
 @end
